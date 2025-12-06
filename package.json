@@ -1,0 +1,13 @@
+{
+  "name": "tic-tac-toe-game",
+  "version": "1.0.0",
+  "description": "A beautiful Tic Tac Toe game",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "keywords": ["game", "tic-tac-toe", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}
